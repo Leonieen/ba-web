@@ -11,7 +11,6 @@ dash-bootstrap-components==1.2.1
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 dash-table==5.0.0
-dash-tools==1.8.2
 distlib==0.3.5
 docopt==0.6.2
 filelock==3.8.0
@@ -26,7 +25,6 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.1
 nodeenv==1.7.0
-packaging==21.3
 pandas==1.3.5
 patsy==0.5.2
 pipreqs==0.4.11
